@@ -1,2 +1,2 @@
-# myassistant
-My CloudFlare Worker sandbox
+# myworker
+My CloudFlare Worker Sandbox
