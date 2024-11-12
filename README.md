@@ -1,2 +1,2 @@
 # myassistant
-My Assistant , using C***GPT
+My CloudFlare Worker sandbox
